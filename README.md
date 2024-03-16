@@ -9,5 +9,7 @@ In this script I learned how to make a simple trainning using the library Scikit
 From sklearn.svm import LinearSVC, to build the test. 
 I also learned how to make the prediction manually and importing accuracy_score from sklearn.metrics.
 
-
 ---------
+
+In the sencond introdutory class of Machine Learning, I've learned how to split data into train and test, manually and using Scikit-learn.
+I also learned that is vital to balance data porportion. 
